@@ -1,0 +1,186 @@
+﻿{
+    "schemaVersion":  "repo-map-artifact-branch/v1",
+    "repo":  "sriharshaguthikonda/codegraph",
+    "generatedAt":  "2026-06-01T06:17:35.5417825Z",
+    "source":  "Repo_maps GitHub footprint publish runner",
+    "publishBranch":  "repo-intel-artifacts",
+    "mapCount":  25,
+    "totalBytes":  37372329,
+    "maps":  [
+                 {
+                     "name":  "architectural-improvements",
+                     "ref":  "refs/remotes/origin/architectural-improvements",
+                     "commit":  "3bce3718cfb7ebabc48e5faca1934171ba0bc471",
+                     "path":  ".repo-intel/branches/remote-origin/architectural-improvements__3bce3718cfb7/repo-map-full.json",
+                     "bytes":  2128407
+                 },
+                 {
+                     "name":  "chore/release-notes-refinements",
+                     "ref":  "refs/remotes/origin/chore/release-notes-refinements",
+                     "commit":  "c6dac429ba8270fd3e6fe0cf192f16158e42d2e3",
+                     "path":  ".repo-intel/branches/remote-origin/chore-release-notes-refinements__c6dac429ba82/repo-map-full.json",
+                     "bytes":  1620133
+                 },
+                 {
+                     "name":  "chore/release-notes-unwrap",
+                     "ref":  "refs/remotes/origin/chore/release-notes-unwrap",
+                     "commit":  "03f08ff899e2aabd59db6341e70d995b20a4d666",
+                     "path":  ".repo-intel/branches/remote-origin/chore-release-notes-unwrap__03f08ff899e2/repo-map-full.json",
+                     "bytes":  1620132
+                 },
+                 {
+                     "name":  "ci/bump-actions-node24",
+                     "ref":  "refs/remotes/origin/ci/bump-actions-node24",
+                     "commit":  "359e5820d21c646cde88482f2875d6a2d3d9a335",
+                     "path":  ".repo-intel/branches/remote-origin/ci-bump-actions-node24__359e5820d21c/repo-map-full.json",
+                     "bytes":  1806942
+                 },
+                 {
+                     "name":  "colbymchenry-patch-1",
+                     "ref":  "refs/remotes/origin/colbymchenry-patch-1",
+                     "commit":  "1cf5ccf9251e1cc4446c15d4bf56a2d768119976",
+                     "path":  ".repo-intel/branches/remote-origin/colbymchenry-patch-1__1cf5ccf9251e/repo-map-full.json",
+                     "bytes":  1276761
+                 },
+                 {
+                     "name":  "docs/readme-initialize-projects",
+                     "ref":  "refs/remotes/origin/docs/readme-initialize-projects",
+                     "commit":  "6a129cf332cfab2966f1698d795472697a87fb59",
+                     "path":  ".repo-intel/branches/remote-origin/docs-readme-initialize-projects__6a129cf332cf/repo-map-full.json",
+                     "bytes":  1441589
+                 },
+                 {
+                     "name":  "docs/readme-reorder-and-scala",
+                     "ref":  "refs/remotes/origin/docs/readme-reorder-and-scala",
+                     "commit":  "492cb2ed0dd5b509e86e890ba20a82489ef59f49",
+                     "path":  ".repo-intel/branches/remote-origin/docs-readme-reorder-and-scala__492cb2ed0dd5/repo-map-full.json",
+                     "bytes":  1456860
+                 },
+                 {
+                     "name":  "docs/readme-vue",
+                     "ref":  "refs/remotes/origin/docs/readme-vue",
+                     "commit":  "4c2e5f587903d8f390757eebd964f30c6489cbe7",
+                     "path":  ".repo-intel/branches/remote-origin/docs-readme-vue__4c2e5f587903/repo-map-full.json",
+                     "bytes":  1441493
+                 },
+                 {
+                     "name":  "feat/always-enable-embeddings",
+                     "ref":  "refs/remotes/origin/feat/always-enable-embeddings",
+                     "commit":  "7e6914ddffe42a025279321e409bee0bbae44cff",
+                     "path":  ".repo-intel/branches/remote-origin/feat-always-enable-embeddings__7e6914ddffe4/repo-map-full.json",
+                     "bytes":  1193045
+                 },
+                 {
+                     "name":  "feat/explore-first-guidance",
+                     "ref":  "refs/remotes/origin/feat/explore-first-guidance",
+                     "commit":  "1b527aaf0f52c01f7a28bea9b5f922b17839e09d",
+                     "path":  ".repo-intel/branches/remote-origin/feat-explore-first-guidance__1b527aaf0f52/repo-map-full.json",
+                     "bytes":  1673879
+                 },
+                 {
+                     "name":  "feat/explore-line-numbers",
+                     "ref":  "refs/remotes/origin/feat/explore-line-numbers",
+                     "commit":  "c4cde7076bccd7a77caa1ab72d78417668714b02",
+                     "path":  ".repo-intel/branches/remote-origin/feat-explore-line-numbers__c4cde7076bcc/repo-map-full.json",
+                     "bytes":  1646935
+                 },
+                 {
+                     "name":  "feat/mcp-server-instructions",
+                     "ref":  "refs/remotes/origin/feat/mcp-server-instructions",
+                     "commit":  "e238f7fb83b7945c7cddd0d5cc7e26b2d11588e8",
+                     "path":  ".repo-intel/branches/remote-origin/feat-mcp-server-instructions__e238f7fb83b7/repo-map-full.json",
+                     "bytes":  1327028
+                 },
+                 {
+                     "name":  "feat/node-sqlite-bundle",
+                     "ref":  "refs/remotes/origin/feat/node-sqlite-bundle",
+                     "commit":  "31d72c2e4effc9de1e9bd8d5a99a39f1e99a5c7c",
+                     "path":  ".repo-intel/branches/remote-origin/feat-node-sqlite-bundle__31d72c2e4eff/repo-map-full.json",
+                     "bytes":  1778692
+                 },
+                 {
+                     "name":  "fix/fk-constraint-empty-names",
+                     "ref":  "refs/remotes/origin/fix/fk-constraint-empty-names",
+                     "commit":  "92631d53d3cb70fc40eb4201b6c91cafb3b6d557",
+                     "path":  ".repo-intel/branches/remote-origin/fix-fk-constraint-empty-names__92631d53d3cb/repo-map-full.json",
+                     "bytes":  1094366
+                 },
+                 {
+                     "name":  "fix/mcp-initialize-blocking",
+                     "ref":  "refs/remotes/origin/fix/mcp-initialize-blocking",
+                     "commit":  "449282ad86e548eb65462eade079fee80dced6d3",
+                     "path":  ".repo-intel/branches/remote-origin/fix-mcp-initialize-blocking__449282ad86e5/repo-map-full.json",
+                     "bytes":  1592917
+                 },
+                 {
+                     "name":  "fix/module-qualified-lookup-173",
+                     "ref":  "refs/remotes/origin/fix/module-qualified-lookup-173",
+                     "commit":  "c58b44e3136462d4354bf96ddec1a6846abbe146",
+                     "path":  ".repo-intel/branches/remote-origin/fix-module-qualified-lookup-173__c58b44e31364/repo-map-full.json",
+                     "bytes":  1616028
+                 },
+                 {
+                     "name":  "fix/opencode-installer-jsonc-agents-md",
+                     "ref":  "refs/remotes/origin/fix/opencode-installer-jsonc-agents-md",
+                     "commit":  "82fc599d8d8eefd9d1105aa23a06ae828fc3549a",
+                     "path":  ".repo-intel/branches/remote-origin/fix-opencode-installer-jsonc-agents-md__82fc599d8d8e/repo-map-full.json",
+                     "bytes":  1584715
+                 },
+                 {
+                     "name":  "fix/serve-stdout-mcp-protocol",
+                     "ref":  "refs/remotes/origin/fix/serve-stdout-mcp-protocol",
+                     "commit":  "7442b27002e6d4b229f8cb0f378ee2eb235d0a70",
+                     "path":  ".repo-intel/branches/remote-origin/fix-serve-stdout-mcp-protocol__7442b27002e6/repo-map-full.json",
+                     "bytes":  1093079
+                 },
+                 {
+                     "name":  "fix/silent-failed-install",
+                     "ref":  "refs/remotes/origin/fix/silent-failed-install",
+                     "commit":  "dff98a638cbf44cb81f7575ccecc99d570fe24e3",
+                     "path":  ".repo-intel/branches/remote-origin/fix-silent-failed-install__dff98a638cbf/repo-map-full.json",
+                     "bytes":  1092945
+                 },
+                 {
+                     "name":  "fix/stale-lock-mcp-retry",
+                     "ref":  "refs/remotes/origin/fix/stale-lock-mcp-retry",
+                     "commit":  "3ec4cde542908cfd80024074927044a14ca9a85e",
+                     "path":  ".repo-intel/branches/remote-origin/fix-stale-lock-mcp-retry__3ec4cde54290/repo-map-full.json",
+                     "bytes":  1098623
+                 },
+                 {
+                     "name":  "fix/wasm-oom-lazy-grammars",
+                     "ref":  "refs/remotes/origin/fix/wasm-oom-lazy-grammars",
+                     "commit":  "15b5e563229ad37555d023545d238334a466f8b7",
+                     "path":  ".repo-intel/branches/remote-origin/fix-wasm-oom-lazy-grammars__15b5e563229a/repo-map-full.json",
+                     "bytes":  1095444
+                 },
+                 {
+                     "name":  "fix/windows-mojibake-168",
+                     "ref":  "refs/remotes/origin/fix/windows-mojibake-168",
+                     "commit":  "ba9b44e2341fab8da7ce738900a5ec37ad649dff",
+                     "path":  ".repo-intel/branches/remote-origin/fix-windows-mojibake-168__ba9b44e2341f/repo-map-full.json",
+                     "bytes":  1603201
+                 },
+                 {
+                     "name":  "lua",
+                     "ref":  "refs/remotes/origin/lua",
+                     "commit":  "096114a776b79e032a13ce10c6a041a33af183d3",
+                     "path":  ".repo-intel/branches/remote-origin/lua__096114a776b7/repo-map-full.json",
+                     "bytes":  1752845
+                 },
+                 {
+                     "name":  "main",
+                     "ref":  "refs/remotes/origin/main",
+                     "commit":  "f366222dbd6b7e43047072a9417289b1b02ae457",
+                     "path":  ".repo-intel/branches/remote-origin/main__f366222dbd6b/repo-map-full.json",
+                     "bytes":  1925586
+                 },
+                 {
+                     "name":  "perf/drop-narrow-edge-indexes",
+                     "ref":  "refs/remotes/origin/perf/drop-narrow-edge-indexes",
+                     "commit":  "690d74bdfeaa9afac3399169274450e28c59b081",
+                     "path":  ".repo-intel/branches/remote-origin/perf-drop-narrow-edge-indexes__690d74bdfeaa/repo-map-full.json",
+                     "bytes":  1323150
+                 }
+             ]
+}

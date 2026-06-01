@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "0.1.0",
+  "repo": {
+    "id": "sriharshaguthikonda__codegraph",
+    "root": ".",
+    "remoteUrl": "https://github.com/sriharshaguthikonda/codegraph.git",
+    "defaultBranch": "architectural-improvements",
+    "localPaths": [
+      ".claude",
+      ".cursor",
+      ".github",
+      ".gitignore",
+      "BUNDLING.md",
+      "CHANGELOG.md",
+      "CLAUDE.md",
+      "LICENSE",
+      "README.md",
+      "__tests__",
+      "docs",
+      "install.ps1",
+      "install.sh",
+      "package-lock.json",
+      "package.json",
+      "scripts",
+      "src",
+      "tsconfig.json",
+      "vitest.config.ts"
+    ]
+  },
+  "sourceState": {
+    "commit": "3bce3718cfb7ebabc48e5faca1934171ba0bc471",
+    "branch": "architectural-improvements",
+    "dirty": false,
+    "generatedForCommit": "3bce3718cfb7ebabc48e5faca1934171ba0bc471"
+  },
+  "policy": {
+    "profile": "basic",
+    "sensitivity": "private",
+    "committedArtifacts": [
+      "manifest"
+    ],
+    "allowMemoryPointer": false,
+    "allowGraphPilots": false,
+    "runOnPush": false
+  },
+  "generatedAt": "2026-06-01T03:59:36.607996Z",
+  "toolRuns": [
+    {
+      "id": "repomix.basic",
+      "tool": "repomix",
+      "mode": "basic",
+      "status": "skipped",
+      "outputRef": "artifacts/repomix/repo-map.json",
+      "warnings": [
+        "Repomix is unavailable on PATH.",
+        "Suggested command: `npx repomix --output artifacts/repomix/repo-map.json`.",
+        "Repomix output is a native artifact and is not committed by default.",
+        "Bare `npx` does not prove Repomix is installed; install `repomix` or verify it explicitly."
+      ]
+    },
+    {
+      "id": "aider.basic",
+      "tool": "aider",
+      "mode": "basic",
+      "status": "skipped",
+      "outputRef": "artifacts/aider/repo-map-guidance.md",
+      "warnings": [
+        "Aider records repo-map guidance without forcing an interactive run.",
+        "Aider is unavailable on PATH.",
+        "Baseline guidance output lives in an artifact path and is not committed by default."
+      ]
+    },
+    {
+      "id": "serena.basic",
+      "tool": "serena",
+      "mode": "basic",
+      "status": "skipped",
+      "outputRef": "artifacts/serena/symbols.json",
+      "warnings": [
+        "Serena records symbol-navigation guidance without auto-configuring global state.",
+        "Serena is unavailable on PATH and no command override is configured.",
+        "Symbol-navigation output lives in an artifact path and is not committed by default."
+      ]
+    }
+  ],
+  "artifacts": {
+    "manifestPath": ".repo-intel/manifest.json",
+    "summaryPath": ".repo-intel/summary.md",
+    "nativeOutputs": [
+      {
+        "name": "repomix",
+        "path": "artifacts/repomix/repo-map.json",
+        "kind": "native"
+      },
+      {
+        "name": "aider",
+        "path": "artifacts/aider/repo-map-guidance.md",
+        "kind": "native"
+      },
+      {
+        "name": "serena",
+        "path": "artifacts/serena/symbols.json",
+        "kind": "native"
+      },
+      {
+        "name": "repo-map-full",
+        "path": "artifacts/repo-map/repo-map-full.json",
+        "kind": "native"
+      }
+    ],
+    "workflowArtifacts": []
+  },
+  "contextLevels": {
+    "level0": "identity",
+    "level1": "summary",
+    "level2": "importantFiles",
+    "level3": "symbols",
+    "level4": "fullExport"
+  },
+  "staleness": "current",
+  "security": {
+    "ignorePolicy": ".repo-map-ignore",
+    "secretScanStatus": "skipped",
+    "sizeGateStatus": "skipped"
+  }
+}
